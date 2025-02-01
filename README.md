@@ -1,7 +1,7 @@
 # Pietra Ono Pavan
 
 
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pietra-ono) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pietra-ono/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pietra.pavan@aluno.senai.br) [!![Figma](https://img.shields.io/badge/Figma-2C2C2C?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/@pietraonopavan) 
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pietra-ono) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pietra-ono/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pietra.pavan@aluno.senai.br) [![Figma](https://img.shields.io/badge/Figma-2C2C2C?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/@pietraonopavan) 
 <br />
 <h3>👋 Hello, you're welcome!</h3>
 
@@ -35,5 +35,5 @@ Excited about the opportunities lying ahead I am always open to embracing new ch
 
 ##
 
-![Snake animation](https://github.com/pietra-ono/pietra-ono/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/pietra-ono/pietra-ono/blob/main/.github/workflows-contribution-grid-little-snake.svg)
 
