@@ -35,5 +35,5 @@ Excited about the opportunities lying ahead I am always open to embracing new ch
 
 ##
 
-![Snake animation](https://github.com/pietra-ono)
+![Snake animation](https://github.com/pietra-ono/pietra-ono/blob/output/github-contribution-grid-snake.svg)
 
