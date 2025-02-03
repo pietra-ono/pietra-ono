@@ -36,7 +36,6 @@
 ![JavaScriptt](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-##
 
 ## Most used tools
 
@@ -44,4 +43,3 @@
 ![Git](https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-8011f9?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-##
