@@ -20,7 +20,6 @@
 
 ## ✍️My Activities
 
-<br />
 
 <div>
   <a href="https://github.com/pietra-ono">
