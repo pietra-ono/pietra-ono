@@ -25,7 +25,7 @@
 <div>
   <a href="https://github.com/pietra-ono">
     <img height="190px" src="https://github-readme-stats.vercel.app/api?username=pietra-ono&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-    <img  height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pietra-ono&layout=compact&langs_count=10&theme=transparent" />
+    <img  height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pietra-ono&layout=compact&langs_count=5&theme=transparent" />
 </div>
 
 <br />
