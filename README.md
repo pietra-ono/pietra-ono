@@ -9,7 +9,7 @@
 <h3>🔍About me:</h3>
 
 - 🚀 Dedicated to delivering **high-quality results** with creativity and a proactive mindset.  
-- 🌊 Biologist in the making | Currently pursuing a Bachelor's in Biology at UNESP, with a focus on Marine Biology and Coastal Management
+- 🌊 **Currently** pursuing a Bachelor's in Biology at UNESP, with a focus on Marine Biology and Coastal Management
 - 💻 Technical degree in **Systems Development** from SESI SENAI.  
 - 🛠️ Solid foundation in **technology and programming**.  
 - 🗣️ Promising **soft skills** for effective communication in any environment.  
@@ -32,6 +32,7 @@
 
 ## 🧠Main skills
 
+![R](https://img.shields.io/badge/R-2065b6?style=for-the-badge&logo=r&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScriptt](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -40,7 +41,8 @@
 
 ## 🛠️Most used tools
 
-![VisualStudioCode](https://img.shields.io/badge/Vscode-00abf5?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![VisualStudioCode](https://img.shields.io/badge/Vscode-00abf5?style=for-the-badge&logo=visualstudio%20code&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-75aadb?style=for-the-badge&logo=r&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-8011f9?style=for-the-badge&logo=bootstrap&logoColor=white)
 
