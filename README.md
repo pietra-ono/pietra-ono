@@ -9,6 +9,7 @@
 <h3>🔍About me:</h3>
 
 - 🚀 Dedicated to delivering **high-quality results** with creativity and a proactive mindset.  
+- 🌊 Biologist in the making | Currently pursuing a Bachelor's in Biology at UNESP, with a focus on Marine Biology and Coastal Management – merging my love for nature with tech to explore innovative solutions for environmental challenges.
 - 💻 Technical degree in **Systems Development** from SESI SENAI.  
 - 🛠️ Solid foundation in **technology and programming**.  
 - 🗣️ Promising **soft skills** for effective communication in any environment.  
