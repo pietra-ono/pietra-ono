@@ -31,3 +31,5 @@ Biologist in training (UNESP) with a technical background in Systems Development
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-8011f9?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+<br />
